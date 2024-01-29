@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Live_Project/AI_Project/ML_project/mlruns/0/eed2b55426ab4991bae394bcc3adff9a/artifacts
+end_time: 1706557106577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eed2b55426ab4991bae394bcc3adff9a
+run_name: trusting-gnat-424
+run_uuid: eed2b55426ab4991bae394bcc3adff9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706557091940
+status: 3
+tags: []
+user_id: root
